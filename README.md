@@ -1,6 +1,7 @@
-# PairipcoreBypass
+# Pairipcore AppSealing Bypass
 
 bypass google play protect with pairipcore，绕过play保护，修复apk，修复闪退
+bypass AppSealing，绕过jiagu，修复apk，修复闪退
 
 ### Main Feature
 
@@ -11,4 +12,4 @@ bypass google play protect with pairipcore，绕过play保护，修复apk，修�
 
 ### How to contact ？
 
-* Telegram https://t.me/gfh65498
+* Telegram https://t.me/labamu520
