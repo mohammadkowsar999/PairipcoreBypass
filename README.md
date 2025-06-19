@@ -2,7 +2,7 @@
 
 bypass google play protect with pairipcore，绕过play保护，修复apk，修复闪退
 
-bypass AppSealing，绕过jiagu，修复apk，修复闪退
+bypass AppSealing，绕过jiagu， dumpc all DEX, 修复apk，修复闪退
 
 ### Main Feature
 
