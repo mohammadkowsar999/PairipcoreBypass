@@ -10,7 +10,7 @@ bypass AppSealing，绕过jiagu， dumpc all DEX, 修复apk，修复闪退.
 * For mod games or original APKs downloaded directly from the Google Store, after decompiling and making relevant modifications, the APK is repaired to bypass multiple verification protections including signature verification and integrity verification, and prevent the APK from crashing due to repackaging the signature.
 
 ### Come to me with a budget/ 带预算来聊
-### No free rides/拒绝白嫖
+### No free rides/拒绝白嫖 
 
 ### Only Usdt payment/ 只收U
 
