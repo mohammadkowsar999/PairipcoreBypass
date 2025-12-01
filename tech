@@ -4,7 +4,7 @@ Google replaced its long-standing integrity protection with the Safetynet infras
 
 So what is this PairIP? What are the differences between it and Safetynet? Let’s take a look at this.
 
-0x00: Safetynet Workflow
+0x00: Safetynet Workflow 
 SafetyNet is a security mechanism that includes a virtual machine module called DroidGuard, which is part of the Google Mobile Services (GMS) package. This VM executes specific bytecode to analyze the device’s security status. The client application generates a nonce token, which is included in the attestation request sent via the Attestation API. The response from this API provides two parameters: ctsProfileMatch and basicIntegrity, which help assess the device’s compatibility and integrity.
 
 
